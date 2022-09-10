@@ -91,11 +91,11 @@ WSGI_APPLICATION = 'django_forum.wsgi.application'
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "d77onim4ak9ff5",
-        "USER": "xormpcckqypjzm",
-        "HOST": "ec2-34-202-54-225.compute-1.amazonaws.com",
+        "NAME": "d2ikjpsmli807c",
+        "USER": "priuwzsibsqfma",
+        "HOST": "ec2-18-208-55-135.compute-1.amazonaws.com",
         "PORT": 5432,
-        "PASSWORD": "67eac7e4a324ce866245179395e56fe2845ba6350fe1510f1b5ff1ab0fda5c9a",
+        "PASSWORD": "d07f38dc72ba92bd1eff3ebbcc8694f7ba546c7e4bb50e897cdcd00f0ecc04e9",
     }
 }
 
