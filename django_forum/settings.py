@@ -138,11 +138,11 @@ USE_TZ = True
 
 
 # Cloudinary configuration files
-cloudinary.config(
-    cloud_name="dks8sjfpf",
-    api_key="941114169691855",
-    api_secret="rXsvWgfA2jrBdzSyYH_XUZZndzE",
-    secure=True,
+cloudinary.config( 
+  cloud_name = "tedcloud", 
+  api_key = "988939879952285", 
+  api_secret = "NUpJXDLo9DLMXzUnYVnp6A89V_I",
+  secure = True
 )
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
