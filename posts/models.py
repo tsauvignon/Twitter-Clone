@@ -1,3 +1,7 @@
+
+
+# Create your models here.
+
 from email.mime import image
 from pyexpat import model
 from django.db import models
